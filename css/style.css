@@ -143,7 +143,8 @@ h6 {
 }
 .logo {
   -webkit-transform: translateX(-25px);
-  transform: translateX(-25px)
+  transform: translateX(-25px);
+  width: 245px
 }
 body {
   background: #f4f3f3
@@ -710,8 +711,8 @@ body {
   }
   .logo {
     width: 205px;
-    -webkit-transform: translateX(0);
-    transform: translateX(0)
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px)
   }
   [class*=__container] {
     padding: 0 20px
