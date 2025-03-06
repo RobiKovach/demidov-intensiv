@@ -272,7 +272,7 @@ body {
   position: absolute;
   left: 0;
   top: 50%;
-  width: 77%;
+  width: 63%;
   height: .125rem;
   background: #e2a960
 }
@@ -841,9 +841,6 @@ body {
     text-align: left;
     width: 100%;
     font-size: 20px
-  }
-  .results__slider {
-    display: none
   }
   .results__description {
     font-size: 14px;
